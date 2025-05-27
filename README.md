@@ -16,5 +16,5 @@ python3 main.py cs.csv cs2.csv --report payout
  
 
  <p align="center">
- <img width="200px" src="./img/res.png" alt="result"/>
+ <img width="80%" src="./img/res.png" alt="result"/>
 </p>
