@@ -1,0 +1,4 @@
+id,email,name,department,hours_worked,hourly_rate
+1,alice@example.com,Ivan Petro,UI/UX,100,20
+2,bob@example.com,Michigan Hi,Design,150,40
+3,carol@example.com,Tom TopG,Programming,170,60
